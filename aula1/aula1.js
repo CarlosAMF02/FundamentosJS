@@ -24,5 +24,5 @@ console.log(alura*primeiroNumero);
 let input = null;
 let input2;
 
-console.log(input) //null - variavel foi inicializada
-console.log(input2) //undefined - variavel existe e nao foi inicializada
+console.log(input) //null - variavel foi inicializada porem esta vazia
+console.log(input2) //undefined - variavel existe e nao foi inicializada, normalmente inesperado

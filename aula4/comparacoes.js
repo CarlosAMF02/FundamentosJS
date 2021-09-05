@@ -7,5 +7,4 @@ console.log(numero === texto)//compara o valor e o tipo, as boas praticas nao us
 //Operadores
 // || => (criado com shift + \) operador ou
 // && => operador e
-// != e !== => nao igual e estritamente nao igaul
-console.log(numero!==texto)
+// != e !== => nao igual e estritamente nao igual da mesma forma que a comparacao
