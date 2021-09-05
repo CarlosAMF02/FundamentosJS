@@ -19,4 +19,10 @@ console.log(novaOperacao);
 //NaN -> Not a number (não é um número)
 
 const alura = "Alura";
-console.log(alura*primeiroNumero)
+console.log(alura*primeiroNumero);
+
+let input = null;
+let input2;
+
+console.log(input) //null - variavel foi inicializada
+console.log(input2) //undefined - variavel existe e nao foi inicializada
